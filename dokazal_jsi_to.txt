@@ -1,0 +1,5 @@
+Dokázal jsi to!
+Naklonoval jsi GITHUB repositář pomocí příkazu git. 
+Git můžeš používat i na svém Windows systému a občas ti bude hodit :-D.
+
+- Vítek
